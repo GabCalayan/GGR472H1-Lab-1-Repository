@@ -1,0 +1,22 @@
+{"type":"FeatureCollection",
+"features":[
+    {"type":"Feature","properties":
+    {"Place ":""},
+        "geometry":{"type":"Polygon","coordinates":[]}},
+            {"type":"Feature","properties":
+                {"Place ":"Malacañan Palace ",
+                "Coordinates ":"14.5946° N, 120.9946° E",
+                "Description":"The presidential palace in the Philippines",
+                "Date of construction":"1750 A.D. ",
+                "Current President":"Bong Bong Marcos "},
+                    "geometry":{"coordinates":
+                    [[[120.99390641464777,14.593976476712427],
+                    [120.99436809906666,14.593636812695806],
+                    [120.9942979014354,14.593550590207599],
+                    [120.99443829669673,14.59345652927368],
+                    [120.99479198475984,14.593924220744285],
+                    [120.99467048886078,14.593999991894094],
+                    [120.9947595858543,14.594130631746893],
+                    [120.99428170198263,14.594465069418078],
+                    [120.99390641464777,14.593976476712427]]],
+                        "type":"Polygon"}}]}
