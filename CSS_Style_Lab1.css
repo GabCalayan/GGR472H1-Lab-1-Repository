@@ -1,6 +1,6 @@
 /* Creating the background for my webpage */
 body{
-    background-color: aquamarine;
+    background-color: rgb(230, 230, 230);
 }
 /* Formatting the h1 tags */
 h1 {
@@ -14,4 +14,23 @@ h2 {
 p {
     text-align: center;
     letter-spacing: 3px;
+}
+
+/* Formatting the image */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Creating the layout of the website */
+.header {
+    background-color: rgb(230, 230, 230);
+    padding: 20px;
+    text-align: center;
+}
+
+.column {
+    column-count: 3;
 }
